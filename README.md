@@ -10,7 +10,7 @@ The solutions are typeset in LaTeX and compiled into a single PDF that follows t
 The remaining chapters and _Analysis II_ may be covered in the future.
 
 ### File
-The full solution set (Chapters 1 – 7): [`solutions_tao_analysis_I_1_-_7.pdf`](./solutions_tao_analysis_I_1_-_7.pdf) 
+The full solution set (Chapters 1 – 7): [`solutions_tao_analysis_I_1_–_7.pdf`](./solutions_tao_analysis_I_1_–_7.pdf) 
 
 
 ### Referenced Work
