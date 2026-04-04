@@ -9,6 +9,10 @@ It is intended to be a supplemental resource for students working through the te
 The solutions are typeset in LaTeX and compiled into a single PDF that follows the structure, style and notation of the textbook.
 The remaining chapters and _Analysis II_ may be covered in the future.
 
+In a work of this magnitude, errors may remain despite careful proofreading and revision.
+If you would like to point out a mistake, ask a question, offer suggestions, or share a reflection, please open an Issue or write to the email found in the PDF.
+Feedback is welcome.
+
 ### File
 The full solution set (Chapters 1 – 7): [`solutions_tao_analysis_I_1_–_7.pdf`](./solutions_tao_analysis_I_1_–_7.pdf) 
 
