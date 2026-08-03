@@ -7,7 +7,7 @@ This work is an independent study project.
 It is intended to be a supplemental resource for students working through the textbook.
 
 The solutions are typeset in LaTeX and compiled into a single PDF that follows the structure, style and notation of the textbook.
-The remaining chapters and _Analysis II_ may be covered in the future.
+The remaining chapters will be added soon. _Analysis II_ may be covered in the future.
 
 In a work of this magnitude, errors may remain despite careful proofreading and revision.
 If you would like to point out a mistake, ask a question, offer suggestions, or share a reflection, please open an Issue or write to the email found in the PDF.
