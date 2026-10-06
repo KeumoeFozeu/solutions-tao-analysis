@@ -16,8 +16,8 @@ Feedback is welcome.
 ----
 \* Chapter 8 is now completed. The solutions of the remaining three chapters will be completed soon.  
 
-### PDF file
-The full solution set (Chapters 1 – 7): [`solutions_tao_analysis_I_1_–_7.pdf`](./solutions_tao_analysis_I_1_–_7.pdf) 
+### The full Solution Set
+PDF (Chapters 1 – 7): [`solutions_tao_analysis_I_1_–_7.pdf`](./solutions_tao_analysis_I_1_–_7.pdf) 
 
 
 ### Referenced Work
