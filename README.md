@@ -15,6 +15,7 @@ Feedback is welcome.
 
 ----
 \* Chapter 8 and Chapter 9 are now completed. The solutions of the remaining two chapters will be completed soon.
+
 \** Several solutions have been rewritten, many typos have been fixed, mistakes have been corrected. These changes will be implemented in the upcoming v1.2
 
 ### The full Solution Set
