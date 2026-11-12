@@ -16,7 +16,7 @@ Feedback is welcome.
 ----
 \* Chapters 8, 9, and 10 are now completed. The solutions of the last chapter will be completed soon.
 
-\** Several solutions have been rewritten, many typos have been fixed, mistakes have been corrected. These changes will be implemented in the upcoming v1.2
+** Version 1.2 is now uploaded with significant improvements and corrections.
 
 ### The full Solution Set
 PDF (Chapters 1 – 7): [`solutions_tao_analysis_I_1_–_7.pdf`](./solutions_tao_analysis_I_1_–_7.pdf) 
