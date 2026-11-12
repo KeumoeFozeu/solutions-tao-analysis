@@ -18,8 +18,8 @@ Feedback is welcome.
 
 ** Version 1.2 is now uploaded with significant improvements and corrections.
 
-### The full Solution Set
-PDF (Chapters 1 – 7): [`solutions_tao_analysis_I_1_–_7.pdf`](./solutions_tao_analysis_I_1_–_7.pdf) 
+### The Solutions Manual
+Version 1.2 (PDF): [`solutions_tao_analysis_I_1_–_7.pdf`](./solutions_tao_analysis_I_1_–_7.pdf) 
 
 
 ### Referenced Work
